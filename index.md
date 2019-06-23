@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+### 求职方向
+#### 地址： 武汉
+#### 职位： Java开发实习生
 
-You can use the [editor on GitHub](https://github.com/lian170101/lian170101.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### 姓名： 胡莲
+#### 性别： 女
+#### 出生年月： 1998年2月
+#### 手机号： 15296493403
+#### 邮箱： 2428336684@qq.com
+#### GitHub： https://github.com/lian170101
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+#### 2016-2020 就读于武汉纺织大学计算机科学与技术专业
+#### 曾在院志愿者协会担任干事
+#### 曾任职班长
 
-### Markdown
+### 专业技能
+- 熟悉Java、HTML等脚本语言
+- 有一定的数据库基础知识，能将MySQL和Java结合运用
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目经历
+- **项目1**
+项目描述：使用Swing框架，运用MySQL，实现选课系统
+- **项目2**
+项目描述：使用ssm框架，基于Tomcat+MySQL+easyUI实现选课系统
+- **项目3**
+项目描述：基于MySQL，实现通讯录系统
 
-```markdown
-Syntax highlighted code block
+### 语言能力
+#### CET-4
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lian170101/lian170101.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我认知
+- 能承受项目压力，并具有良好的团队合作能力
+- 虚心学习，有较好的自学能力和敬业精神
